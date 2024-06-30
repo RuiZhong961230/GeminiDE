@@ -2,6 +2,8 @@
 
 GeminiDE: A Novel Parameter Adaptation Scheme in Differential Evolution  
 
+Necessary packages: opfunu  
+
 @INPROCEEDINGS{Zhong:24,  
 author={Rui, Zhong and Shilong, Zhang and Jun, Yu and Masaharu, Munetomo},  
 booktitle={2024 6th International Conference on Data-driven Optimization of Complex Systems (DOCS)},  
