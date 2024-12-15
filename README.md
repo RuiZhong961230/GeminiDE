@@ -11,6 +11,6 @@ title={GeminiDE: A Novel Parameter Adaptation Scheme in Differential Evolution},
 year={2024},  
 volume={},  
 number={},  
-pages={1-6},  
-note={Accepted}  
+pages={33-38},  
+doi={10.1109/DOCS63458.2024.10704309}  
 }
