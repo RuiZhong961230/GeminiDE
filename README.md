@@ -18,4 +18,4 @@ doi={10.1109/DOCS63458.2024.10704309}
 }
 
 ## Datasets and Libraries
-CEC benchmarks are provided by the opfunu library.
+CEC benchmarks are provided by the opfunu library and gemini-pro API is provided by the google.generativeai library.
